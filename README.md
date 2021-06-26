@@ -5,7 +5,7 @@ Makes your weapon flashlight stay on until you turn it back off.
 
 Exotic804#3793
 
-PLace persistent-flashlight-fivem in server resource folder
+Place persistent-flashlight-fivem in server resource folder
 Add ensure persistent-flashlight-fivem to server.cfg 
 Your all done :) 
 
